@@ -104,3 +104,8 @@ if __name__ == '__main__':
 
 
 
+#if there is any error bug found, please contact to the authors and developers of this project.
+# contact to callmeasgooduser@gmail.com
+# @2023 ALL RIGHTS RESERVED
+
+
